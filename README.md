@@ -4,6 +4,7 @@
 
 ## 📝 Descrição
 Documentação do processo de criação de relatório de desempenho comercial no primeiro ano de funcionamento de uma empresa de varejo por atacado sediada no Reino Unido, desde o tratamento da base bruta até a entrega de insights estratégicos com visualizações interativas.
+Base de dados fornecida pelo site Kaggle: https://www.kaggle.com/datasets/datacertlaboratoria/projeto-3-segmentao-de-clientes-no-ecommerce
 
 ---
 
