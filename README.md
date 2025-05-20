@@ -65,7 +65,7 @@ Realizar uma análise de ponta a ponta utilizando dados reais de transações pa
 ---
 
 ## 🔗 Visualizar Dashboard
-[Acesse a versão publicada no Power BI](#) https://app.powerbi.com/view?r=eyJrIjoiMjc4MGEyZjUtMmI4OC00Zjk5LTg0NDktMmNjYWNjMjdlOWY2IiwidCI6IjQ2NjU1MmRlLTNkMTMtNDYyMS05OGJkLTVmOTJhNDZmMzkwYSJ9 
+Acesse a versão publicada no Power BI: https://app.powerbi.com/view?r=eyJrIjoiMjc4MGEyZjUtMmI4OC00Zjk5LTg0NDktMmNjYWNjMjdlOWY2IiwidCI6IjQ2NjU1MmRlLTNkMTMtNDYyMS05OGJkLTVmOTJhNDZmMzkwYSJ9 
 
 ---
 
